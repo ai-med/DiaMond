@@ -47,19 +47,15 @@ For any questions, please contact: Yitong Li (yi_tong.li@tum.de)
 
 If you find this repository useful, please consider giving a star 🌟 and citing the paper:
 
-```bibtex
-@inproceedings{li2024diamond,
-    title={DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET},
-    author={Li, Yitong and Ghahremani, Morteza and Wally, Youssef and Wachinger, Christian},
-    eprint={2410.23219},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV},
-    year={2024},
-    url={https://arxiv.org/abs/2410.23219},
-}
-```
-
 WACV 2025 proceedings:
 ```bibtex
-Coming soon
+@INPROCEEDINGS{li2024diamond,
+  author={Li, Yitong and Ghahremani, Morteza and Wally, Youssef and Wachinger, Christian},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)}, 
+  title={DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={107-116},
+  doi={10.1109/WACV61041.2025.00021}}
 ```
