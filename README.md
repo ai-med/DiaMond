@@ -2,7 +2,7 @@
 
 Official Pytorch Implementation of Paper - 💎 DiaMond: Dementia Diagnosis with Multi-Modal Vision Transformers Using MRI and PET - Accepted by [WACV 2025](https://wacv2025.thecvf.com/)
 
-[![Preprint](https://img.shields.io/badge/arXiv-2303.07717-b31b1b)](https://arxiv.org/abs/2410.23219)
+[![Preprint](https://img.shields.io/badge/arXiv-2410.23219-b31b1b)](https://arxiv.org/abs/2410.23219)
 
 <p align="center">
   <img src="img/arch.png" />
